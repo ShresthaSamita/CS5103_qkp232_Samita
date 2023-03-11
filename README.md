@@ -1,6 +1,6 @@
-# CS5103 Software Engineering Practice (Strings and Words)
+# CS5103 Software Engineering (Strings and Words)
 
-## Requirement Engineering:
+## Checkpoint 1:  Requirement Engineering:
 
 
 Specifications:
