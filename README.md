@@ -69,7 +69,7 @@ Running the Project
   ii. Execute:
     		
 	mvn clean
-	    mvn package
+ 	mvn package
 
   iii. The jar file named WordCounter-0.0.1-SNAPSHOT.jar will be created in target folder. Execute the line below to get the output.
   	java -cp WordCounter-0.0.1-SNAPSHOT.jar <file path of WordCounter.java> <inputfilepath>
