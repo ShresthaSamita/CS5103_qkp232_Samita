@@ -66,7 +66,7 @@ Running the Project
   
   	cd <folderpath>
 
-  ii. Execute:
+  ii. Build and Execute
     		
 	mvn clean
  	mvn package
