@@ -72,7 +72,8 @@ Running the Project
  	mvn package
 
   iii. The jar file named WordCounter-0.0.1-SNAPSHOT.jar will be created in target folder. Execute the line below to get the output.
-  	java -cp WordCounter-0.0.1-SNAPSHOT.jar <file path of WordCounter.java> <inputfilepath>
+  
+  	java -cp target\WordCounter-0.0.1-SNAPSHOT.jar phase1.WordCounter <inputfilepath>
 
 Here I have uploaded some of the sample/ possible test text file that can be used.
 
@@ -84,6 +85,8 @@ Unit Testing [Refer to Test.pdf for more details]
 4. For the input with single space, tab annd newline between words
 5. For the input with Combination of space,tabs and newlines
 6. For the input with Words, Number and separators combined
+
+All Test case are PASSED!!
 
 ![image](https://user-images.githubusercontent.com/91647704/224465650-7d6451f3-964e-4c7b-a91f-26da25c3a111.png)
 
