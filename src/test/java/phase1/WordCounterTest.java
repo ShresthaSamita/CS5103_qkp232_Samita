@@ -22,6 +22,13 @@ public class WordCounterTest {
 		assertTrue(ourResult.isEmpty());
 	}
 
+	@Test
+	public void testForSeparatorsOnly() throws IOException {
+		Scanner fileScanner = new Scanner(new File("SeparatorOnly.txt"));
+		Map<String, Integer> ourResult = WordCounter.getWordCount(fileScanner);
+		assertTrue(ourResult.isEmpty());
+
+	}
 	/*Test case for SimpleText with simple space only*/
 	@Test
 	public void testForSimpleText() throws IOException {
