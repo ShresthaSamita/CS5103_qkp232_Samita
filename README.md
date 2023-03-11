@@ -56,9 +56,13 @@ This program implements a set of string manipulation functions on a document, to
 
 Running the Project
 ===================
-  Download the repo to your preferred IDE
- 
-  Once downloaded it can be run either using Maven or Java
+  Download the repo to your preferred location and extract.
+
+### Prerequisites:
+
+Maven has to be installed.
+
+Should have latest Java JDK installed.
 
 #### Using Maven
 
