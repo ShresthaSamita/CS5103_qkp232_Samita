@@ -92,6 +92,10 @@ Unit Testing [Refer to Test.pdf for more details]
 
 All Test case are PASSED!!
 
+Command used to test:
+
+	mvn test
+	
 ![image](https://user-images.githubusercontent.com/91647704/224465650-7d6451f3-964e-4c7b-a91f-26da25c3a111.png)
 
 Bug Testing: [Refer to Test.pdf for more details]
