@@ -20,14 +20,14 @@ Setting up for Maven:
 ================
 ### For Windows user:
 
-STEP 1: Install Maven
+* STEP 1: Install Maven
 
   1. Visit the Maven download page and download the version of Maven you want to install. 
   2. Click on the appropriate link to download the binary zip archive of the latest version of Maven.
   3. Since there is no installation process, extract the Maven archive to a directory of your choice once the download is complete.
 
  
-STEP 2: Add MAVEN_HOME System Variable
+* STEP 2: Add MAVEN_HOME System Variable
 
   1. Open the Start menu and search for environment variables.
   2. Click the Edit the system environment variables result.
@@ -35,7 +35,7 @@ STEP 2: Add MAVEN_HOME System Variable
   4. Click the New button under the System variables section to add a new system environment variable.
   5. Enter MAVEN_HOME as the variable name and the path to the Maven directory as the variable value. Click OK to save the new system variable.
 
-STEP 3: Add MAVEN_HOME Directory in PATH Variable
+* STEP 3: Add MAVEN_HOME Directory in PATH Variable
 
   1. Select the Path variable under the System variables section in the Environment Variables window. Click the Edit button to edit the variable.
   2. Click the New button in the Edit environment variable window.
@@ -43,7 +43,7 @@ STEP 3: Add MAVEN_HOME Directory in PATH Variable
   4. Click OK in the Environment Variables window to save the changes to the system variables.
 
 
-STEP 4: Verify Maven Installation
+* STEP 4: Verify Maven Installation
 
   In the command prompt, use the following command 
         
