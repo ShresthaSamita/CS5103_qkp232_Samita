@@ -94,6 +94,11 @@ User Story
 All the UserStories for this project can be found on issues section of this repo.
 Check here:
 	[UserStory](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/issues)
+
+Project Status
+===============
+The status of the user stories can be tracked here:
+[Project Status](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/projects?query=is%3Aopen)
 	
 Unit Testing 
 ============
@@ -106,12 +111,6 @@ Unit Testing
 5. For the input with Combination of space,tabs and newlines
 6. For the input with Words, Number and separators combined
 All Test case are PASSED!!
-
-Project Status
-===============
-The status of the user stories can be tracked here:
-[Project Status](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/projects?query=is%3Aopen)
-
 
 Command used to test:
 
