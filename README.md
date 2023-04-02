@@ -1,15 +1,23 @@
+
 # CS5103 Software Engineering (Strings and Words)
 
-## Checkpoint 1:  Requirement Engineering:
+In this project, we will go through all software engineering practices phasewise. This project will have three phases (Phase1..Phase3) where we will be updating and extending as per the requirement.
 
 
-Specifications:
-==============
- 
+## Specifications
+### Phase 1:
+
 This project counts the number of words in the given input file. First, it takes the input filename from the command line from the user and tokenize it based on the separators. The separators or the delimiter that are used here are space, tabs and newline character. These delimiters can come up either singly or in combination, this program is able to handle both.
 
-Once, the string is tokenized, the occurrence of unique words is calculated.Hashmap is used as a Datastructure
+Once, the string is tokenized, the occurrence of unique words is calculated.Hashmap is used as a Datastructure.
 
+### Phase 2:
+
+Phase 2 is the extension of Phase1 where we have added two features,
+
+i) LineCount : Counts the number of lines in the input file. 
+
+ii) CharacterCount : Counts number of characters in the input file.
 
 Development Environment:
 ========================
@@ -52,7 +60,7 @@ Setting up for Maven:
 
 Implementation
 ==============
-This program implements a set of string manipulation functions on a document, to gather various statistics on the words stored in that document. As a first   requirement, we start with finding the unique words along with their frequencies.
+This program implements a set of string manipulation functions on a document, to gather various statistics on the words stored in that document. As a first   requirement, we start with finding the unique words along with their frequencies. Then, the program is extended to count the number of lines and characters.
 
 Running the Project
 ===================
@@ -64,7 +72,7 @@ Maven has to be installed.
 
 Should have latest Java JDK installed.
 
-#### Using Maven
+#### Using Maven via command line 
 
   i. Go to main folder where it has pom.xml file
   
@@ -77,18 +85,21 @@ Should have latest Java JDK installed.
 
   iii. The jar file named WordCounter-0.0.1-SNAPSHOT.jar will be created in target folder. Execute the line below to get the output.
   
-  	java -cp target\WordCounter-0.0.1-SNAPSHOT.jar phase1.WordCounter <inputfilepath>
+  	java -cp target\WordCounter-0.0.1-SNAPSHOT.jar phase2.Driver <inputfilepath>
 
 Here I have uploaded some of the sample/ possible test text file that can be used.
 
-Unit Testing [Refer to Test.pdf for more details]
+Unit Testing 
 ============
+[Please Refer to https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Test.pdf ]
 1. For Empty Files
 2. For input with separators only (no words or numbers)
 3. For SimpleText with simple space only
 4. For the input with single space, tab annd newline between words
 5. For the input with Combination of space,tabs and newlines
 6. For the input with Words, Number and separators combined
+
+
 
 All Test case are PASSED!!
 
