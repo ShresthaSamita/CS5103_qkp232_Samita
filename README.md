@@ -109,7 +109,8 @@ Command used to test:
 	
 ![image](https://user-images.githubusercontent.com/91647704/224465650-7d6451f3-964e-4c7b-a91f-26da25c3a111.png)
 
-Bug Testing: [Refer to Test.pdf for more details]
+Bug Testing: 
 ===========
+[Please Refer to https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Test.pdf ]
 For Bug Detection, PMD plugin from eclipse marketplace was used.
 
