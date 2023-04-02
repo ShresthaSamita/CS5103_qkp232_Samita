@@ -122,7 +122,7 @@ Command used to test:
 Bug Testing: 
 ===========
 
-[Please Refer [Test](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Test.pdf) for further detailed documentation]
+[Please Refer [Test](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Phase1_RequirementAndTestCases.pdf) for further detailed documentation]
 
 For Bug Detection, PMD plugin from eclipse marketplace was used.
 
