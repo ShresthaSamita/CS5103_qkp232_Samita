@@ -89,19 +89,29 @@ Should have latest Java JDK installed.
 
 Here I have uploaded some of the sample/ possible test text file that can be used.
 
+User Story
+==========
+All the UserStories for this project can be found on issues section of this repo.
+Check here:
+	[UserStory](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/issues)
+	
 Unit Testing 
 ============
-[Please Refer to https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Test.pdf ]
+[Please Refer documentation of Test Cases and requirement here: [Test and Requirement](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Phase1_RequirementAndTestCases.pdf)
+
 1. For Empty Files
 2. For input with separators only (no words or numbers)
 3. For SimpleText with simple space only
 4. For the input with single space, tab annd newline between words
 5. For the input with Combination of space,tabs and newlines
 6. For the input with Words, Number and separators combined
-
-
-
 All Test case are PASSED!!
+
+Project Status
+===============
+The status of the user stories can be tracked here:
+[Project Status](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/projects?query=is%3Aopen)
+
 
 Command used to test:
 
@@ -112,7 +122,7 @@ Command used to test:
 Bug Testing: 
 ===========
 
-[Please Refer to https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Test.pdf ]
+[Please Refer [Test](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Test.pdf) for further detailed documentation]
 
 For Bug Detection, PMD plugin from eclipse marketplace was used.
 
