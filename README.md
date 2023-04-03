@@ -102,8 +102,11 @@ The status of the user stories can be tracked here:
 	
 Unit Testing 
 ============
-[Please Refer documentation of Test Cases and requirement here: [Test and Requirement](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Phase1_RequirementAndTestCases.pdf)
+[Please Refer documentation of Test Cases and requirement here:
+[Test and Requirement Document Phase 1](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Phase1_RequirementAndTestCases.pdf)
+[Test and Requirement Document Phase 2](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Phase2_RequirementAndTestCases.pdf)
 
+Example Test case:  [Detailed explanation can be found in document above]
 1. For Empty Files
 2. For input with separators only (no words or numbers)
 3. For SimpleText with simple space only
@@ -121,7 +124,8 @@ Command used to test:
 Bug Testing: 
 ===========
 
-[Please Refer [Test](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Phase1_RequirementAndTestCases.pdf) for further detailed documentation]
+[Please Refer [Test Phase 1](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Phase1_RequirementAndTestCases.pdf) 
+	      [Test Phase 2](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Phase2_RequirementAndTestCases.pdf)for further detailed documentation]
 
 For Bug Detection, PMD plugin from eclipse marketplace was used.
 
