@@ -94,6 +94,11 @@ User Story
 All the UserStories for this project can be found on issues section of this repo.
 Check here:
 	[UserStory](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/issues)
+
+Project Status
+===============
+The status of the user stories can be tracked here:
+[Project Status](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/projects?query=is%3Aopen)
 	
 Unit Testing 
 ============
@@ -107,12 +112,6 @@ Unit Testing
 6. For the input with Words, Number and separators combined
 All Test case are PASSED!!
 
-Project Status
-===============
-The status of the user stories can be tracked here:
-[Project Status](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/projects?query=is%3Aopen)
-
-
 Command used to test:
 
 	mvn test
@@ -122,7 +121,7 @@ Command used to test:
 Bug Testing: 
 ===========
 
-[Please Refer [Test](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Test.pdf) for further detailed documentation]
+[Please Refer [Test](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Phase1_RequirementAndTestCases.pdf) for further detailed documentation]
 
 For Bug Detection, PMD plugin from eclipse marketplace was used.
 
