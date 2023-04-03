@@ -13,7 +13,7 @@ Once, the string is tokenized, the occurrence of unique words is calculated.Hash
 
 #### Phase 2:
 
-Phase 2 is the extension of Phase1 where we have added two features,
+Phase 2 is the extension of Phase1 where we have our First requirement change. Here we have added two more features,
 
 i) *LineCount* : Counts the number of lines in the input file. 
 
