@@ -96,6 +96,7 @@ I have uploaded some of the sample/ possible test text file that can be used.
 
 ### Sample Run
 
+##### Checking for Phase 2, Checking for SimpleText.txt #####
 
 <img src="https://user-images.githubusercontent.com/91647704/229403972-b684f641-4d84-4af5-b1dc-07218b699976.png" width="650" height="300"/>
 
@@ -131,7 +132,7 @@ Example Test case:  [Please click on the document link above for further details
 7. For the input with Words, Number, Separator and Special Character
 
 
-All Test case are **PASSED!!**
+All Test case are $\colorbox{white}{{\color{green}{PASSED !!}}}$ &check; 
 
 Command used to test:
 
@@ -145,4 +146,5 @@ Command used to test:
 [Please Refer  [Test Phase 1](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Phase1_RequirementAndTestCases.pdf) and [Test Phase 2](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Phase2_RequirementAndTestCases.pdf) for further detailed documentation]
 
 For Bug Detection, PMD plugin from eclipse marketplace was used.
+
 
