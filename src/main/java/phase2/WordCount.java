@@ -3,6 +3,11 @@ package phase2;
 import java.util.*;
 
 public class WordCount {
+	/**
+	 * 
+	 * @param fileScanner
+	 * @return
+	 */
     public static Map<String, Integer> getWordCount(Scanner fileScanner) {
         Map<String, Integer> wordFreq = new HashMap<String, Integer>();
         while (fileScanner.hasNextLine()) {
