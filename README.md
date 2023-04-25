@@ -61,6 +61,10 @@ This program provides a set of functions to manipulate strings in a document, in
 
 ## Running the Project
 First, Download the repo to your preferred location and extract.
+Or, you may clone the repo using following command :
+```
+git clone git@github.com:ShresthaSamita/CS5103_qkp232_Samita.git
+```
 
 ### Prerequisites:
 
