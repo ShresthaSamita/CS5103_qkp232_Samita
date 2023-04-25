@@ -154,7 +154,7 @@ For Bug Detection, PMD plugin from eclipse marketplace was used.
 
 For Code Clone Detection, PMD's Copy/Paste Detector (CPD) was used. For ease I used the GUI version of it.
 
-* How to use CPD tool?
+*How to use CPD tool?*
 - Download the latest version of PMD- CPD from [this link](https://github.com/pmd/pmd/releases)
 - Extract the zipped file to desired location
 - Once Downloaded, open command prompt and go to the bin folder from the extracted folder
