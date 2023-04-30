@@ -24,8 +24,12 @@ ii) *CharacterCount* : Counts number of characters in the input file.
 Phase 3 is the extension of Phase2 where we have our Second requirement change. Here we have added one more feature,
 
 *WordReplace* which replaces all occurrences of a specified word pattern in a given file with a replacement string
+## Design Change Report:
 
-## Development Environment:
+I have documented all the Design Changes [here](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Design%20Change%20Report.pdf)
+
+## Development Environment: <img src="https://user-images.githubusercontent.com/91647704/235340374-da396b1b-af49-4415-b565-2c7319625c34.png" width="20" height="20" />     <img src="https://user-images.githubusercontent.com/91647704/235340183-cb2879dd-017e-438b-8f02-4b36b2758fe5.png" width="20" height="20" />  <img src="https://user-images.githubusercontent.com/91647704/235340132-9ab5c527-81c8-40bc-9948-6a3c3d9f4d44.png" width="30" height="30" /> 
+
 
 This project is build using Maven framework and developed using eclipse IDE. Unit testing is performed using JUnit library with Maven.
 
@@ -136,7 +140,7 @@ Example Test case:  [Please click on the document link above for further details
 4. For input with no Match
 5. For input with Uppercase and Lowercase
 
-All Test case are $\colorbox{white}{{\color{green}{PASSED !!}}}$ &check; 
+All Test case are PASSED &check; 
 
 Command used to test:
 
@@ -145,7 +149,7 @@ Command used to test:
 <img src="https://user-images.githubusercontent.com/91647704/234201577-977a0a4e-3288-438b-92d7-52f189541791.png" width="650" height="300" />
 
 
-## Bug Testing: <img src="https://user-images.githubusercontent.com/91647704/234212062-02799862-1b21-423c-945e-631d097bec9b.png" width="15" height="20" />
+## Bug Testing: <img src="https://user-images.githubusercontent.com/91647704/234212062-02799862-1b21-423c-945e-631d097bec9b.png" width="10" height="20" />
 
 
 [Please Refer  [Test Phase 1](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Phase1_RequirementAndTestCases.pdf), [Test Phase 2](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Phase2_RequirementAndTestCases.pdf) and [Test Phase 3](https://github.com/ShresthaSamita/CS5103_qkp232_Samita/blob/main/Phase3_RequirementAndTestCases.pdf) for further detailed documentation]
@@ -154,7 +158,8 @@ For Bug Detection, PMD plugin from eclipse marketplace was used.
 
 <img src="https://user-images.githubusercontent.com/91647704/234201971-a6b09a11-1a00-44fc-a4e5-a5ba185dc46d.png" width="650" height="150" />
 
-## Code Clone Detection: 
+## Code Clone Detection: <img src="https://user-images.githubusercontent.com/91647704/235339997-99d0b3f1-05f6-47f7-84b0-84e87572870b.png" width="50" height="30" />
+
 
 For Code Clone Detection, PMD's Copy/Paste Detector (CPD) was used. For ease I used the GUI version of it.
 
